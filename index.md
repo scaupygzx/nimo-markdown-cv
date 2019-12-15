@@ -4,10 +4,9 @@ title: Tony "Pygzx" Kwan
 email:
   url: mailto:pygzx@foxmail.com
   text: pygzx@foxmail.com
-phone: 15813669070
 ---
 
-# **关** 仲贤
+## 关仲贤
 
 <!--
 include contact information from the front matter
@@ -33,7 +32,7 @@ Supported arguments:
 
 ## 教育背景
 
-### **清华** `2011-09 ~ 2015-06`
+### **华南农业大学** `2011-09 ~ 2015-06`
 
 ```
 本科
@@ -43,11 +42,13 @@ Supported arguments:
 
 ## 工作经历
 
-### **哈哈** `2015-10 ~ 至今`
+### **大疆创新科技有限公司** `2015-10 ~ 至今`
 
-#### 哈哈哈 `2016-11 ~ 2018-06`
+#### *飞行安全监管服务* `2016-11 ~ 2018-06`
 
 ##### 技术栈：Java + Netty + WebSocket + MySQL + MongoDB + Redis 
+
+嘻嘻嘻嘻嘻嘻嘻
 
 <!-- ### Footer
 
